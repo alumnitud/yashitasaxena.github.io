@@ -1,2 +1,2 @@
-# yashitasaxena.github.io
-A simple test website.
+# Learning Resource Collection
+A simple test website with a collection of learning resources.
